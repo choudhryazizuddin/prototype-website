@@ -1,4 +1,4 @@
 Prototype Website
 =================
 
-Built by [Vic and Choudhry]
+The Best Prototype Website Ever
